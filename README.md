@@ -10,7 +10,7 @@
 
 <h2>💡 Check Out My Walk-Through Website!</h2>
 
-- [Ed-Techs.co](ed-techs.co)
+- [Ed-Techs.co](https://www.ed-techs.co)
 
 <h2> 🤳 Connect with me:</h2>
 
