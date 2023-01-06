@@ -12,7 +12,7 @@
 
 - [Ed-Techs.co](https://www.ed-techs.co)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect With Me</h2>
 
 [<img align="left" alt="LiamEdwards | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
