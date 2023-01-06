@@ -6,14 +6,14 @@
 
 <h2>📄 Certifications</h2>
 
-- [CompTIA A+ (Version 2022)](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA A+ (Version 2022)](https://www.credly.com/badges/60887a92-687f-48a4-8737-5ca235d1f2f1/public_url)
 
-<h2>💡 Check Out My Walk-Throughs!</h2>
+<h2>💡 Check Out My Walk-Through Website!</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Ed-Techs.co](ed-techs.co)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LiamEdwards | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/liamee
