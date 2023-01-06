@@ -8,7 +8,7 @@
 
 - [CompTIA A+ (Version 2022)](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-<h2>⌨️ Check Out My Walk-Throughs!</h2>
+<h2>💡 Check Out My Walk-Throughs!</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
