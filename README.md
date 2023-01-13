@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects</h2>
 
-- [Set Up a Home Lab Running Active Directory (Oracle VirtualBox), Add Users with PowerShell](https://github.com/edwardsliame/AD_Powershell_Users)
+- [Set Up a Home Lab Running Active Directory (Oracle VM VirtualBox), Add Users with PowerShell](https://github.com/edwardsliame/AD_Powershell_Users)
 
 <h2>📄 Certifications</h2>
 
@@ -10,7 +10,7 @@
 
 <h2>💡 Check Out My Walk-Through Website!</h2>
 
-- [Ed-Techs.co](https://www.ed-techs.co)
+- [Let's Learn IT!](https://www.letslearnit.tech/)
 
 <h2> 🤳 Connect With Me</h2>
 
